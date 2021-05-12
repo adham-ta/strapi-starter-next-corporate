@@ -16,7 +16,7 @@
     "formik": "^2.2.6",
     "next": "^9.5.4",
     "next-seo": "^4.7.1",
-    "postcss": "^7",
+    "postcss": "^8",
     "postcss-nested": "^4.2.3",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
